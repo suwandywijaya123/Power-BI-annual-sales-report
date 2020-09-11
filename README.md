@@ -2,5 +2,5 @@
 
 ## Create dashboard for annual sales report using Power BI
 
-![Uploading Annual sales report 2017.PNG…]()
+![Annual sales report 2017](https://user-images.githubusercontent.com/67776470/92957600-646a0780-f49b-11ea-937c-c3364810105a.PNG)
 
