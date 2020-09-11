@@ -1,0 +1,607 @@
+﻿ProductKey,ProductLine,ProductName,StandardCost,SubCategory,Category,Color,ListPrice,ModelName,DaysToManufacture
+1,,Adjustable Race,,,,NA,,,0
+2,,Bearing Ball,,,,NA,,,0
+3,,BB Ball Bearing,,,,NA,,,1
+4,,Headset Ball Bearings,,,,NA,,,0
+5,,Blade,,,,NA,,,1
+6,,LL Crankarm,,,,Black,,,0
+7,,ML Crankarm,,,,Black,,,0
+8,,HL Crankarm,,,,Black,,,0
+9,,Chainring Bolts,,,,Silver,,,0
+10,,Chainring Nut,,,,Silver,,,0
+11,,Chainring,,,,Black,,,0
+12,,Crown Race,,,,NA,,,0
+13,,Chain Stays,,,,NA,,,1
+14,,Decal 1,,,,NA,,,0
+15,,Decal 2,,,,NA,,,0
+16,,Down Tube,,,,NA,,,1
+17,,Mountain End Caps,,,,NA,,,1
+18,,Road End Caps,,,,NA,,,1
+19,,Touring End Caps,,,,NA,,,1
+20,,Fork End,,,,NA,,,1
+21,,Freewheel,,,,Silver,,,0
+22,,Flat Washer 1,,,,NA,,,0
+23,,Flat Washer 6,,,,NA,,,0
+24,,Flat Washer 2,,,,NA,,,0
+25,,Flat Washer 9,,,,NA,,,0
+26,,Flat Washer 4,,,,NA,,,0
+27,,Flat Washer 3,,,,NA,,,0
+28,,Flat Washer 8,,,,NA,,,0
+29,,Flat Washer 5,,,,NA,,,0
+30,,Flat Washer 7,,,,NA,,,0
+31,,Fork Crown,,,,NA,,,1
+32,,Front Derailleur Cage,,,,Silver,,,0
+33,,Front Derailleur Linkage,,,,Silver,,,0
+34,,Guide Pulley,,,,NA,,,0
+35,,LL Grip Tape,,,,NA,,,0
+36,,ML Grip Tape,,,,NA,,,0
+37,,HL Grip Tape,,,,NA,,,0
+38,,Thin-Jam Hex Nut 9,,,,NA,,,0
+39,,Thin-Jam Hex Nut 10,,,,NA,,,0
+40,,Thin-Jam Hex Nut 1,,,,NA,,,0
+41,,Thin-Jam Hex Nut 2,,,,NA,,,0
+42,,Thin-Jam Hex Nut 15,,,,NA,,,0
+43,,Thin-Jam Hex Nut 16,,,,NA,,,0
+44,,Thin-Jam Hex Nut 5,,,,NA,,,0
+45,,Thin-Jam Hex Nut 6,,,,NA,,,0
+46,,Thin-Jam Hex Nut 3,,,,NA,,,0
+47,,Thin-Jam Hex Nut 4,,,,NA,,,0
+48,,Thin-Jam Hex Nut 13,,,,NA,,,0
+49,,Thin-Jam Hex Nut 14,,,,NA,,,0
+50,,Thin-Jam Hex Nut 7,,,,NA,,,0
+51,,Thin-Jam Hex Nut 8,,,,NA,,,0
+52,,Thin-Jam Hex Nut 12,,,,NA,,,0
+53,,Thin-Jam Hex Nut 11,,,,NA,,,0
+54,,Hex Nut 5,,,,NA,,,0
+55,,Hex Nut 6,,,,NA,,,0
+56,,Hex Nut 16,,,,NA,,,0
+57,,Hex Nut 17,,,,NA,,,0
+58,,Hex Nut 7,,,,NA,,,0
+59,,Hex Nut 8,,,,NA,,,0
+60,,Hex Nut 9,,,,NA,,,0
+61,,Hex Nut 22,,,,NA,,,0
+62,,Hex Nut 23,,,,NA,,,0
+63,,Hex Nut 12,,,,NA,,,0
+64,,Hex Nut 13,,,,NA,,,0
+65,,Hex Nut 1,,,,NA,,,0
+66,,Hex Nut 10,,,,NA,,,0
+67,,Hex Nut 11,,,,NA,,,0
+68,,Hex Nut 2,,,,NA,,,0
+69,,Hex Nut 20,,,,NA,,,0
+70,,Hex Nut 21,,,,NA,,,0
+71,,Hex Nut 3,,,,NA,,,0
+72,,Hex Nut 14,,,,NA,,,0
+73,,Hex Nut 15,,,,NA,,,0
+74,,Hex Nut 4,,,,NA,,,0
+75,,Hex Nut 18,,,,NA,,,0
+76,,Hex Nut 19,,,,NA,,,0
+77,,Handlebar Tube,,,,NA,,,1
+78,,Head Tube,,,,NA,,,1
+79,,LL Hub,,,,NA,,,1
+80,,HL Hub,,,,NA,,,1
+81,,Keyed Washer,,,,NA,,,0
+82,,External Lock Washer 3,,,,NA,,,0
+83,,External Lock Washer 4,,,,NA,,,0
+84,,External Lock Washer 9,,,,NA,,,0
+85,,External Lock Washer 5,,,,NA,,,0
+86,,External Lock Washer 7,,,,NA,,,0
+87,,External Lock Washer 6,,,,NA,,,0
+88,,External Lock Washer 1,,,,NA,,,0
+89,,External Lock Washer 8,,,,NA,,,0
+90,,External Lock Washer 2,,,,NA,,,0
+91,,Internal Lock Washer 3,,,,NA,,,0
+92,,Internal Lock Washer 4,,,,NA,,,0
+93,,Internal Lock Washer 9,,,,NA,,,0
+94,,Internal Lock Washer 5,,,,NA,,,0
+95,,Internal Lock Washer 7,,,,NA,,,0
+96,,Internal Lock Washer 6,,,,NA,,,0
+97,,Internal Lock Washer 10,,,,NA,,,0
+98,,Internal Lock Washer 1,,,,NA,,,0
+99,,Internal Lock Washer 8,,,,NA,,,0
+100,,Internal Lock Washer 2,,,,NA,,,0
+101,,Thin-Jam Lock Nut 9,,,,NA,,,0
+102,,Thin-Jam Lock Nut 10,,,,NA,,,0
+103,,Thin-Jam Lock Nut 1,,,,NA,,,0
+104,,Thin-Jam Lock Nut 2,,,,NA,,,0
+105,,Thin-Jam Lock Nut 15,,,,NA,,,0
+106,,Thin-Jam Lock Nut 16,,,,NA,,,0
+107,,Thin-Jam Lock Nut 5,,,,NA,,,0
+108,,Thin-Jam Lock Nut 6,,,,NA,,,0
+109,,Thin-Jam Lock Nut 3,,,,NA,,,0
+110,,Thin-Jam Lock Nut 4,,,,NA,,,0
+111,,Thin-Jam Lock Nut 13,,,,NA,,,0
+112,,Thin-Jam Lock Nut 14,,,,NA,,,0
+113,,Thin-Jam Lock Nut 7,,,,NA,,,0
+114,,Thin-Jam Lock Nut 8,,,,NA,,,0
+115,,Thin-Jam Lock Nut 12,,,,NA,,,0
+116,,Thin-Jam Lock Nut 11,,,,NA,,,0
+117,,Lock Nut 5,,,,NA,,,0
+118,,Lock Nut 6,,,,NA,,,0
+119,,Lock Nut 16,,,,NA,,,0
+120,,Lock Nut 17,,,,NA,,,0
+121,,Lock Nut 7,,,,NA,,,0
+122,,Lock Nut 8,,,,NA,,,0
+123,,Lock Nut 9,,,,NA,,,0
+124,,Lock Nut 22,,,,NA,,,0
+125,,Lock Nut 23,,,,NA,,,0
+126,,Lock Nut 12,,,,NA,,,0
+127,,Lock Nut 13,,,,NA,,,0
+128,,Lock Nut 1,,,,NA,,,0
+129,,Lock Nut 10,,,,NA,,,0
+130,,Lock Nut 11,,,,NA,,,0
+131,,Lock Nut 2,,,,NA,,,0
+132,,Lock Nut 20,,,,NA,,,0
+133,,Lock Nut 21,,,,NA,,,0
+134,,Lock Nut 3,,,,NA,,,0
+135,,Lock Nut 14,,,,NA,,,0
+136,,Lock Nut 15,,,,NA,,,0
+137,,Lock Nut 4,,,,NA,,,0
+138,,Lock Nut 19,,,,NA,,,0
+139,,Lock Nut 18,,,,NA,,,0
+140,,Lock Ring,,,,Silver,,,0
+141,,Lower Head Race,,,,NA,,,0
+142,,Lock Washer 4,,,,NA,,,0
+143,,Lock Washer 5,,,,NA,,,0
+144,,Lock Washer 10,,,,NA,,,0
+145,,Lock Washer 6,,,,NA,,,0
+146,,Lock Washer 13,,,,NA,,,0
+147,,Lock Washer 8,,,,NA,,,0
+148,,Lock Washer 1,,,,NA,,,0
+149,,Lock Washer 7,,,,NA,,,0
+150,,Lock Washer 12,,,,NA,,,0
+151,,Lock Washer 2,,,,NA,,,0
+152,,Lock Washer 9,,,,NA,,,0
+153,,Lock Washer 3,,,,NA,,,0
+154,,Lock Washer 11,,,,NA,,,0
+155,,Metal Angle,,,,NA,,,0
+156,,Metal Bar 1,,,,NA,,,0
+157,,Metal Bar 2,,,,NA,,,0
+158,,Metal Plate 2,,,,NA,,,0
+159,,Metal Plate 1,,,,NA,,,0
+160,,Metal Plate 3,,,,NA,,,0
+161,,Metal Sheet 2,,,,NA,,,0
+162,,Metal Sheet 3,,,,NA,,,0
+163,,Metal Sheet 7,,,,NA,,,0
+164,,Metal Sheet 4,,,,NA,,,0
+165,,Metal Sheet 5,,,,NA,,,0
+166,,Metal Sheet 6,,,,NA,,,0
+167,,Metal Sheet 1,,,,NA,,,0
+168,,Metal Tread Plate,,,,NA,,,0
+169,,LL Nipple,,,,NA,,,0
+170,,HL Nipple,,,,NA,,,0
+171,,Paint - Black,,,,NA,,,0
+172,,Paint - Red,,,,NA,,,0
+173,,Paint - Silver,,,,NA,,,0
+174,,Paint - Blue,,,,NA,,,0
+175,,Paint - Yellow,,,,NA,,,0
+176,,Pinch Bolt,,,,NA,,,0
+177,,Cup-Shaped Race,,,,NA,,,0
+178,,Cone-Shaped Race,,,,NA,,,0
+179,,Reflector,,,,NA,,,0
+180,,LL Mountain Rim,,,,NA,,,0
+181,,ML Mountain Rim,,,,NA,,,0
+182,,HL Mountain Rim,,,,NA,,,0
+183,,LL Road Rim,,,,NA,,,0
+184,,ML Road Rim,,,,NA,,,0
+185,,HL Road Rim,,,,NA,,,0
+186,,Touring Rim,,,,NA,,,0
+187,,LL Mountain Seat Assembly,,,,NA,,,1
+188,,ML Mountain Seat Assembly,,,,NA,,,1
+189,,HL Mountain Seat Assembly,,,,NA,,,1
+190,,LL Road Seat Assembly,,,,NA,,,1
+191,,ML Road Seat Assembly,,,,NA,,,1
+192,,HL Road Seat Assembly,,,,NA,,,1
+193,,LL Touring Seat Assembly,,,,NA,,,1
+194,,ML Touring Seat Assembly,,,,NA,,,1
+195,,HL Touring Seat Assembly,,,,NA,,,1
+196,,LL Spindle/Axle,,,,NA,,,0
+197,,HL Spindle/Axle,,,,NA,,,0
+198,,LL Shell,,,,NA,,,0
+199,,HL Shell,,,,NA,,,0
+200,,Spokes,,,,NA,,,0
+201,,Seat Lug,,,,NA,,,0
+202,,Stem,,,,NA,,,1
+203,,Seat Post,,,,NA,,,0
+204,,Steerer,,,,NA,,,1
+205,,Seat Stays,,,,NA,,,1
+206,,Seat Tube,,,,NA,,,1
+207,,Top Tube,,,,NA,,,1
+208,,Tension Pulley,,,,NA,,,0
+209,,Rear Derailleur Cage,,,,Silver,,,0
+210,Road,"HL Road Frame - Black, 58",,Road Frames,Components,Black,,HL Road Frame,1
+211,Road,"HL Road Frame - Red, 58",,Road Frames,Components,Red,,HL Road Frame,1
+212,Sport,"Sport-100 Helmet, Red",$12.0278,Helmets,Accessories,Red,$33.6442,Sport-100,0
+213,Sport,"Sport-100 Helmet, Red",$13.8782,Helmets,Accessories,Red,$33.6442,Sport-100,0
+214,Sport,"Sport-100 Helmet, Red",$13.0863,Helmets,Accessories,Red,$34.99,Sport-100,0
+215,Sport,"Sport-100 Helmet, Black",$12.0278,Helmets,Accessories,Black,$33.6442,Sport-100,0
+216,Sport,"Sport-100 Helmet, Black",$13.8782,Helmets,Accessories,Black,$33.6442,Sport-100,0
+217,Sport,"Sport-100 Helmet, Black",$13.0863,Helmets,Accessories,Black,$34.99,Sport-100,0
+218,Mountain,"Mountain Bike Socks, M",$3.3963,Socks,Clothing,White,$9.5,Mountain Bike Socks,0
+219,Mountain,"Mountain Bike Socks, L",$3.3963,Socks,Clothing,White,$9.5,Mountain Bike Socks,0
+220,Sport,"Sport-100 Helmet, Blue",$12.0278,Helmets,Accessories,Blue,$33.6442,Sport-100,0
+221,Sport,"Sport-100 Helmet, Blue",$13.8782,Helmets,Accessories,Blue,$33.6442,Sport-100,0
+222,Sport,"Sport-100 Helmet, Blue",$13.0863,Helmets,Accessories,Blue,$34.99,Sport-100,0
+223,Sport,AWC Logo Cap,$5.7052,Caps,Clothing,Multi,$8.6442,Cycling Cap,0
+224,Sport,AWC Logo Cap,$5.2297,Caps,Clothing,Multi,$8.6442,Cycling Cap,0
+225,Sport,AWC Logo Cap,$6.9223,Caps,Clothing,Multi,$8.99,Cycling Cap,0
+226,Sport,"Long-Sleeve Logo Jersey, S",$31.7244,Jerseys,Clothing,Multi,$48.0673,Long-Sleeve Logo Jersey,0
+227,Sport,"Long-Sleeve Logo Jersey, S",$29.0807,Jerseys,Clothing,Multi,$48.0673,Long-Sleeve Logo Jersey,0
+228,Sport,"Long-Sleeve Logo Jersey, S",$38.4923,Jerseys,Clothing,Multi,$49.99,Long-Sleeve Logo Jersey,0
+229,Sport,"Long-Sleeve Logo Jersey, M",$31.7244,Jerseys,Clothing,Multi,$48.0673,Long-Sleeve Logo Jersey,0
+230,Sport,"Long-Sleeve Logo Jersey, M",$29.0807,Jerseys,Clothing,Multi,$48.0673,Long-Sleeve Logo Jersey,0
+231,Sport,"Long-Sleeve Logo Jersey, M",$38.4923,Jerseys,Clothing,Multi,$49.99,Long-Sleeve Logo Jersey,0
+232,Sport,"Long-Sleeve Logo Jersey, L",$31.7244,Jerseys,Clothing,Multi,$48.0673,Long-Sleeve Logo Jersey,0
+233,Sport,"Long-Sleeve Logo Jersey, L",$29.0807,Jerseys,Clothing,Multi,$48.0673,Long-Sleeve Logo Jersey,0
+234,Sport,"Long-Sleeve Logo Jersey, L",$38.4923,Jerseys,Clothing,Multi,$49.99,Long-Sleeve Logo Jersey,0
+235,Sport,"Long-Sleeve Logo Jersey, XL",$31.7244,Jerseys,Clothing,Multi,$48.0673,Long-Sleeve Logo Jersey,0
+236,Sport,"Long-Sleeve Logo Jersey, XL",$29.0807,Jerseys,Clothing,Multi,$48.0673,Long-Sleeve Logo Jersey,0
+237,Sport,"Long-Sleeve Logo Jersey, XL",$38.4923,Jerseys,Clothing,Multi,$49.99,Long-Sleeve Logo Jersey,0
+238,Road,"HL Road Frame - Red, 62",$747.9682,Road Frames,Components,Red,$1263.4598,HL Road Frame,1
+239,Road,"HL Road Frame - Red, 62",$722.2568,Road Frames,Components,Red,$1301.3636,HL Road Frame,1
+240,Road,"HL Road Frame - Red, 62",$868.6342,Road Frames,Components,Red,$1431.5,HL Road Frame,1
+241,Road,"HL Road Frame - Red, 44",$747.9682,Road Frames,Components,Red,$1263.4598,HL Road Frame,1
+242,Road,"HL Road Frame - Red, 44",$722.2568,Road Frames,Components,Red,$1301.3636,HL Road Frame,1
+243,Road,"HL Road Frame - Red, 44",$868.6342,Road Frames,Components,Red,$1431.5,HL Road Frame,1
+244,Road,"HL Road Frame - Red, 48",$747.9682,Road Frames,Components,Red,$1263.4598,HL Road Frame,1
+245,Road,"HL Road Frame - Red, 48",$722.2568,Road Frames,Components,Red,$1301.3636,HL Road Frame,1
+246,Road,"HL Road Frame - Red, 48",$868.6342,Road Frames,Components,Red,$1431.5,HL Road Frame,1
+247,Road,"HL Road Frame - Red, 52",$747.9682,Road Frames,Components,Red,$1263.4598,HL Road Frame,1
+248,Road,"HL Road Frame - Red, 52",$722.2568,Road Frames,Components,Red,$1301.3636,HL Road Frame,1
+249,Road,"HL Road Frame - Red, 52",$868.6342,Road Frames,Components,Red,$1431.5,HL Road Frame,1
+250,Road,"HL Road Frame - Red, 56",$747.9682,Road Frames,Components,Red,$1263.4598,HL Road Frame,1
+251,Road,"HL Road Frame - Red, 56",$722.2568,Road Frames,Components,Red,$1301.3636,HL Road Frame,1
+252,Road,"HL Road Frame - Red, 56",$868.6342,Road Frames,Components,Red,$1431.5,HL Road Frame,1
+253,Road,"LL Road Frame - Black, 58",$176.1997,Road Frames,Components,Black,$297.6346,LL Road Frame,1
+254,Road,"LL Road Frame - Black, 58",$170.1428,Road Frames,Components,Black,$306.5636,LL Road Frame,1
+255,Road,"LL Road Frame - Black, 58",$204.6251,Road Frames,Components,Black,$337.22,LL Road Frame,1
+256,Road,"LL Road Frame - Black, 60",$176.1997,Road Frames,Components,Black,$297.6346,LL Road Frame,1
+257,Road,"LL Road Frame - Black, 60",$170.1428,Road Frames,Components,Black,$306.5636,LL Road Frame,1
+258,Road,"LL Road Frame - Black, 60",$204.6251,Road Frames,Components,Black,$337.22,LL Road Frame,1
+259,Road,"LL Road Frame - Black, 62",$176.1997,Road Frames,Components,Black,$297.6346,LL Road Frame,1
+260,Road,"LL Road Frame - Black, 62",$170.1428,Road Frames,Components,Black,$306.5636,LL Road Frame,1
+261,Road,"LL Road Frame - Black, 62",$204.6251,Road Frames,Components,Black,$337.22,LL Road Frame,1
+262,Road,"LL Road Frame - Red, 44",$181.4857,Road Frames,Components,Red,$306.5636,LL Road Frame,1
+263,Road,"LL Road Frame - Red, 44",$187.1571,Road Frames,Components,Red,$337.22,LL Road Frame,1
+264,Road,"LL Road Frame - Red, 48",$181.4857,Road Frames,Components,Red,$306.5636,LL Road Frame,1
+265,Road,"LL Road Frame - Red, 48",$187.1571,Road Frames,Components,Red,$337.22,LL Road Frame,1
+266,Road,"LL Road Frame - Red, 52",$181.4857,Road Frames,Components,Red,$306.5636,LL Road Frame,1
+267,Road,"LL Road Frame - Red, 52",$187.1571,Road Frames,Components,Red,$337.22,LL Road Frame,1
+268,Road,"LL Road Frame - Red, 58",$181.4857,Road Frames,Components,Red,$306.5636,LL Road Frame,1
+269,Road,"LL Road Frame - Red, 58",$187.1571,Road Frames,Components,Red,$337.22,LL Road Frame,1
+270,Road,"LL Road Frame - Red, 60",$181.4857,Road Frames,Components,Red,$306.5636,LL Road Frame,1
+271,Road,"LL Road Frame - Red, 60",$187.1571,Road Frames,Components,Red,$337.22,LL Road Frame,1
+272,Road,"LL Road Frame - Red, 62",$181.4857,Road Frames,Components,Red,$306.5636,LL Road Frame,1
+273,Road,"LL Road Frame - Red, 62",$187.1571,Road Frames,Components,Red,$337.22,LL Road Frame,1
+274,Road,"ML Road Frame - Red, 44",$352.1394,Road Frames,Components,Red,$594.83,ML Road Frame,1
+275,Road,"ML Road Frame - Red, 48",$352.1394,Road Frames,Components,Red,$594.83,ML Road Frame,1
+276,Road,"ML Road Frame - Red, 52",$352.1394,Road Frames,Components,Red,$594.83,ML Road Frame,1
+277,Road,"ML Road Frame - Red, 58",$352.1394,Road Frames,Components,Red,$594.83,ML Road Frame,1
+278,Road,"ML Road Frame - Red, 60",$352.1394,Road Frames,Components,Red,$594.83,ML Road Frame,1
+279,Road,"LL Road Frame - Black, 44",$176.1997,Road Frames,Components,Black,$297.6346,LL Road Frame,1
+280,Road,"LL Road Frame - Black, 44",$170.1428,Road Frames,Components,Black,$306.5636,LL Road Frame,1
+281,Road,"LL Road Frame - Black, 44",$204.6251,Road Frames,Components,Black,$337.22,LL Road Frame,1
+282,Road,"LL Road Frame - Black, 48",$176.1997,Road Frames,Components,Black,$297.6346,LL Road Frame,1
+283,Road,"LL Road Frame - Black, 48",$170.1428,Road Frames,Components,Black,$306.5636,LL Road Frame,1
+284,Road,"LL Road Frame - Black, 48",$204.6251,Road Frames,Components,Black,$337.22,LL Road Frame,1
+285,Road,"LL Road Frame - Black, 52",$176.1997,Road Frames,Components,Black,$297.6346,LL Road Frame,1
+286,Road,"LL Road Frame - Black, 52",$170.1428,Road Frames,Components,Black,$306.5636,LL Road Frame,1
+287,Road,"LL Road Frame - Black, 52",$204.6251,Road Frames,Components,Black,$337.22,LL Road Frame,1
+288,Mountain,"HL Mountain Frame - Silver, 42",$623.8403,Mountain Frames,Components,Silver,$1204.3248,HL Mountain Frame,1
+289,Mountain,"HL Mountain Frame - Silver, 42",$660.9142,Mountain Frames,Components,Silver,$1240.4545,HL Mountain Frame,1
+290,Mountain,"HL Mountain Frame - Silver, 42",$747.2002,Mountain Frames,Components,Silver,$1364.5,HL Mountain Frame,1
+291,Mountain,"HL Mountain Frame - Silver, 44",$706.811,Mountain Frames,Components,Silver,$1364.5,HL Mountain Frame,1
+292,Mountain,"HL Mountain Frame - Silver, 48",$706.811,Mountain Frames,Components,Silver,$1364.5,HL Mountain Frame,1
+293,Mountain,"HL Mountain Frame - Silver, 46",$623.8403,Mountain Frames,Components,Silver,$1204.3248,HL Mountain Frame,1
+294,Mountain,"HL Mountain Frame - Silver, 46",$660.9142,Mountain Frames,Components,Silver,$1240.4545,HL Mountain Frame,1
+295,Mountain,"HL Mountain Frame - Silver, 46",$747.2002,Mountain Frames,Components,Silver,$1364.5,HL Mountain Frame,1
+296,Mountain,"HL Mountain Frame - Black, 42",$617.0281,Mountain Frames,Components,Black,$1191.1739,HL Mountain Frame,1
+297,Mountain,"HL Mountain Frame - Black, 42",$653.6971,Mountain Frames,Components,Black,$1226.9091,HL Mountain Frame,1
+298,Mountain,"HL Mountain Frame - Black, 42",$739.041,Mountain Frames,Components,Black,$1349.6,HL Mountain Frame,1
+299,Mountain,"HL Mountain Frame - Black, 44",$699.0928,Mountain Frames,Components,Black,$1349.6,HL Mountain Frame,1
+300,Mountain,"HL Mountain Frame - Black, 48",$699.0928,Mountain Frames,Components,Black,$1349.6,HL Mountain Frame,1
+301,Mountain,"HL Mountain Frame - Black, 46",$617.0281,Mountain Frames,Components,Black,$1191.1739,HL Mountain Frame,1
+302,Mountain,"HL Mountain Frame - Black, 46",$653.6971,Mountain Frames,Components,Black,$1226.9091,HL Mountain Frame,1
+303,Mountain,"HL Mountain Frame - Black, 46",$739.041,Mountain Frames,Components,Black,$1349.6,HL Mountain Frame,1
+304,Mountain,"HL Mountain Frame - Black, 38",$617.0281,Mountain Frames,Components,Black,$1191.1739,HL Mountain Frame,2
+305,Mountain,"HL Mountain Frame - Black, 38",$653.6971,Mountain Frames,Components,Black,$1226.9091,HL Mountain Frame,2
+306,Mountain,"HL Mountain Frame - Black, 38",$739.041,Mountain Frames,Components,Black,$1349.6,HL Mountain Frame,2
+307,Mountain,"HL Mountain Frame - Silver, 38",$623.8403,Mountain Frames,Components,Silver,$1204.3248,HL Mountain Frame,2
+308,Mountain,"HL Mountain Frame - Silver, 38",$660.9142,Mountain Frames,Components,Silver,$1240.4545,HL Mountain Frame,2
+309,Mountain,"HL Mountain Frame - Silver, 38",$747.2002,Mountain Frames,Components,Silver,$1364.5,HL Mountain Frame,2
+310,Road,"Road-150 Red, 62",$2171.2942,Road Bikes,Bikes,Red,$3578.27,Road-150,4
+311,Road,"Road-150 Red, 44",$2171.2942,Road Bikes,Bikes,Red,$3578.27,Road-150,4
+312,Road,"Road-150 Red, 48",$2171.2942,Road Bikes,Bikes,Red,$3578.27,Road-150,4
+313,Road,"Road-150 Red, 52",$2171.2942,Road Bikes,Bikes,Red,$3578.27,Road-150,4
+314,Road,"Road-150 Red, 56",$2171.2942,Road Bikes,Bikes,Red,$3578.27,Road-150,4
+315,Road,"Road-450 Red, 58",$884.7083,Road Bikes,Bikes,Red,$1457.99,Road-450,4
+316,Road,"Road-450 Red, 60",$884.7083,Road Bikes,Bikes,Red,$1457.99,Road-450,4
+317,Road,"Road-450 Red, 44",$884.7083,Road Bikes,Bikes,Red,$1457.99,Road-450,4
+318,Road,"Road-450 Red, 48",$884.7083,Road Bikes,Bikes,Red,$1457.99,Road-450,4
+319,Road,"Road-450 Red, 52",$884.7083,Road Bikes,Bikes,Red,$1457.99,Road-450,4
+320,Road,"Road-650 Red, 58",$413.1463,Road Bikes,Bikes,Red,$699.0982,Road-650,4
+321,Road,"Road-650 Red, 58",$486.7066,Road Bikes,Bikes,Red,$782.99,Road-650,4
+322,Road,"Road-650 Red, 60",$413.1463,Road Bikes,Bikes,Red,$699.0982,Road-650,4
+323,Road,"Road-650 Red, 60",$486.7066,Road Bikes,Bikes,Red,$782.99,Road-650,4
+324,Road,"Road-650 Red, 62",$413.1463,Road Bikes,Bikes,Red,$699.0982,Road-650,4
+325,Road,"Road-650 Red, 62",$486.7066,Road Bikes,Bikes,Red,$782.99,Road-650,4
+326,Road,"Road-650 Red, 44",$413.1463,Road Bikes,Bikes,Red,$699.0982,Road-650,4
+327,Road,"Road-650 Red, 44",$486.7066,Road Bikes,Bikes,Red,$782.99,Road-650,4
+328,Road,"Road-650 Red, 48",$413.1463,Road Bikes,Bikes,Red,$699.0982,Road-650,4
+329,Road,"Road-650 Red, 48",$486.7066,Road Bikes,Bikes,Red,$782.99,Road-650,4
+330,Road,"Road-650 Red, 52",$413.1463,Road Bikes,Bikes,Red,$699.0982,Road-650,4
+331,Road,"Road-650 Red, 52",$486.7066,Road Bikes,Bikes,Red,$782.99,Road-650,4
+332,Road,"Road-650 Black, 58",$413.1463,Road Bikes,Bikes,Black,$699.0982,Road-650,4
+333,Road,"Road-650 Black, 58",$486.7066,Road Bikes,Bikes,Black,$782.99,Road-650,4
+334,Road,"Road-650 Black, 60",$413.1463,Road Bikes,Bikes,Black,$699.0982,Road-650,4
+335,Road,"Road-650 Black, 60",$486.7066,Road Bikes,Bikes,Black,$782.99,Road-650,4
+336,Road,"Road-650 Black, 62",$413.1463,Road Bikes,Bikes,Black,$699.0982,Road-650,4
+337,Road,"Road-650 Black, 62",$486.7066,Road Bikes,Bikes,Black,$782.99,Road-650,4
+338,Road,"Road-650 Black, 44",$413.1463,Road Bikes,Bikes,Black,$699.0982,Road-650,4
+339,Road,"Road-650 Black, 44",$486.7066,Road Bikes,Bikes,Black,$782.99,Road-650,4
+340,Road,"Road-650 Black, 48",$413.1463,Road Bikes,Bikes,Black,$699.0982,Road-650,4
+341,Road,"Road-650 Black, 48",$486.7066,Road Bikes,Bikes,Black,$782.99,Road-650,4
+342,Road,"Road-650 Black, 52",$413.1463,Road Bikes,Bikes,Black,$699.0982,Road-650,4
+343,Road,"Road-650 Black, 52",$486.7066,Road Bikes,Bikes,Black,$782.99,Road-650,4
+344,Mountain,"Mountain-100 Silver, 38",$1912.1544,Mountain Bikes,Bikes,Silver,$3399.99,Mountain-100,4
+345,Mountain,"Mountain-100 Silver, 42",$1912.1544,Mountain Bikes,Bikes,Silver,$3399.99,Mountain-100,4
+346,Mountain,"Mountain-100 Silver, 44",$1912.1544,Mountain Bikes,Bikes,Silver,$3399.99,Mountain-100,4
+347,Mountain,"Mountain-100 Silver, 48",$1912.1544,Mountain Bikes,Bikes,Silver,$3399.99,Mountain-100,4
+348,Mountain,"Mountain-100 Black, 38",$1898.0944,Mountain Bikes,Bikes,Black,$3374.99,Mountain-100,4
+349,Mountain,"Mountain-100 Black, 42",$1898.0944,Mountain Bikes,Bikes,Black,$3374.99,Mountain-100,4
+350,Mountain,"Mountain-100 Black, 44",$1898.0944,Mountain Bikes,Bikes,Black,$3374.99,Mountain-100,4
+351,Mountain,"Mountain-100 Black, 48",$1898.0944,Mountain Bikes,Bikes,Black,$3374.99,Mountain-100,4
+352,Mountain,"Mountain-200 Silver, 38",$1117.8559,Mountain Bikes,Bikes,Silver,$2071.4196,Mountain-200,4
+353,Mountain,"Mountain-200 Silver, 38",$1265.6195,Mountain Bikes,Bikes,Silver,$2319.99,Mountain-200,4
+354,Mountain,"Mountain-200 Silver, 42",$1117.8559,Mountain Bikes,Bikes,Silver,$2071.4196,Mountain-200,4
+355,Mountain,"Mountain-200 Silver, 42",$1265.6195,Mountain Bikes,Bikes,Silver,$2319.99,Mountain-200,4
+356,Mountain,"Mountain-200 Silver, 46",$1117.8559,Mountain Bikes,Bikes,Silver,$2071.4196,Mountain-200,4
+357,Mountain,"Mountain-200 Silver, 46",$1265.6195,Mountain Bikes,Bikes,Silver,$2319.99,Mountain-200,4
+358,Mountain,"Mountain-200 Black, 38",$1105.81,Mountain Bikes,Bikes,Black,$2049.0982,Mountain-200,4
+359,Mountain,"Mountain-200 Black, 38",$1251.9813,Mountain Bikes,Bikes,Black,$2294.99,Mountain-200,4
+360,Mountain,"Mountain-200 Black, 42",$1105.81,Mountain Bikes,Bikes,Black,$2049.0982,Mountain-200,4
+361,Mountain,"Mountain-200 Black, 42",$1251.9813,Mountain Bikes,Bikes,Black,$2294.99,Mountain-200,4
+362,Mountain,"Mountain-200 Black, 46",$1105.81,Mountain Bikes,Bikes,Black,$2049.0982,Mountain-200,4
+363,Mountain,"Mountain-200 Black, 46",$1251.9813,Mountain Bikes,Bikes,Black,$2294.99,Mountain-200,4
+364,Mountain,"Mountain-300 Black, 38",$598.4354,Mountain Bikes,Bikes,Black,$1079.99,Mountain-300,4
+365,Mountain,"Mountain-300 Black, 40",$598.4354,Mountain Bikes,Bikes,Black,$1079.99,Mountain-300,4
+366,Mountain,"Mountain-300 Black, 44",$598.4354,Mountain Bikes,Bikes,Black,$1079.99,Mountain-300,4
+367,Mountain,"Mountain-300 Black, 48",$598.4354,Mountain Bikes,Bikes,Black,$1079.99,Mountain-300,4
+368,Road,"Road-250 Red, 44",$1518.7864,Road Bikes,Bikes,Red,$2443.35,Road-250,4
+369,Road,"Road-250 Red, 48",$1518.7864,Road Bikes,Bikes,Red,$2443.35,Road-250,4
+370,Road,"Road-250 Red, 52",$1518.7864,Road Bikes,Bikes,Red,$2443.35,Road-250,4
+371,Road,"Road-250 Red, 58",$1320.6838,Road Bikes,Bikes,Red,$2181.5625,Road-250,4
+372,Road,"Road-250 Red, 58",$1554.9479,Road Bikes,Bikes,Red,$2443.35,Road-250,4
+373,Road,"Road-250 Black, 44",$1320.6838,Road Bikes,Bikes,Black,$2181.5625,Road-250,4
+374,Road,"Road-250 Black, 44",$1554.9479,Road Bikes,Bikes,Black,$2443.35,Road-250,4
+375,Road,"Road-250 Black, 48",$1320.6838,Road Bikes,Bikes,Black,$2181.5625,Road-250,4
+376,Road,"Road-250 Black, 48",$1554.9479,Road Bikes,Bikes,Black,$2443.35,Road-250,4
+377,Road,"Road-250 Black, 52",$1320.6838,Road Bikes,Bikes,Black,$2181.5625,Road-250,4
+378,Road,"Road-250 Black, 52",$1554.9479,Road Bikes,Bikes,Black,$2443.35,Road-250,4
+379,Road,"Road-250 Black, 58",$1320.6838,Road Bikes,Bikes,Black,$2181.5625,Road-250,4
+380,Road,"Road-250 Black, 58",$1554.9479,Road Bikes,Bikes,Black,$2443.35,Road-250,4
+381,Road,"Road-550-W Yellow, 38",$605.6492,Road Bikes,Bikes,Yellow,$1000.4375,Road-550-W,4
+382,Road,"Road-550-W Yellow, 38",$713.0798,Road Bikes,Bikes,Yellow,$1120.49,Road-550-W,4
+383,Road,"Road-550-W Yellow, 40",$605.6492,Road Bikes,Bikes,Yellow,$1000.4375,Road-550-W,4
+384,Road,"Road-550-W Yellow, 40",$713.0798,Road Bikes,Bikes,Yellow,$1120.49,Road-550-W,4
+385,Road,"Road-550-W Yellow, 42",$605.6492,Road Bikes,Bikes,Yellow,$1000.4375,Road-550-W,4
+386,Road,"Road-550-W Yellow, 42",$713.0798,Road Bikes,Bikes,Yellow,$1120.49,Road-550-W,4
+387,Road,"Road-550-W Yellow, 44",$605.6492,Road Bikes,Bikes,Yellow,$1000.4375,Road-550-W,4
+388,Road,"Road-550-W Yellow, 44",$713.0798,Road Bikes,Bikes,Yellow,$1120.49,Road-550-W,4
+389,Road,"Road-550-W Yellow, 48",$605.6492,Road Bikes,Bikes,Yellow,$1000.4375,Road-550-W,4
+390,Road,"Road-550-W Yellow, 48",$713.0798,Road Bikes,Bikes,Yellow,$1120.49,Road-550-W,4
+391,,LL Fork,$65.8097,Forks,Components,NA,$148.22,LL Fork,1
+392,,ML Fork,$77.9176,Forks,Components,NA,$175.49,ML Fork,1
+393,,HL Fork,$101.8936,Forks,Components,NA,$229.49,HL Fork,1
+394,,LL Headset,$15.1848,Headsets,Components,NA,$34.2,LL Headset,1
+395,,ML Headset,$45.4168,Headsets,Components,NA,$102.29,ML Headset,1
+396,,HL Headset,$55.3801,Headsets,Components,NA,$124.73,HL Headset,1
+397,Mountain,LL Mountain Handlebars,$17.978,Handlebars,Components,NA,$40.4909,LL Mountain Handlebars,1
+398,Mountain,LL Mountain Handlebars,$19.7758,Handlebars,Components,NA,$44.54,LL Mountain Handlebars,1
+399,Mountain,ML Mountain Handlebars,$24.9932,Handlebars,Components,NA,$56.2909,ML Mountain Handlebars,1
+400,Mountain,ML Mountain Handlebars,$27.4925,Handlebars,Components,NA,$61.92,ML Mountain Handlebars,1
+401,Mountain,HL Mountain Handlebars,$48.5453,Handlebars,Components,NA,$109.3364,HL Mountain Handlebars,1
+402,Mountain,HL Mountain Handlebars,$53.3999,Handlebars,Components,NA,$120.27,HL Mountain Handlebars,1
+403,Road,LL Road Handlebars,$17.978,Handlebars,Components,NA,$40.4909,LL Road Handlebars,1
+404,Road,LL Road Handlebars,$19.7758,Handlebars,Components,NA,$44.54,LL Road Handlebars,1
+405,Road,ML Road Handlebars,$24.9932,Handlebars,Components,NA,$56.2909,ML Road Handlebars,1
+406,Road,ML Road Handlebars,$27.4925,Handlebars,Components,NA,$61.92,ML Road Handlebars,1
+407,Road,HL Road Handlebars,$48.5453,Handlebars,Components,NA,$109.3364,HL Road Handlebars,1
+408,Road,HL Road Handlebars,$53.3999,Handlebars,Components,NA,$120.27,HL Road Handlebars,1
+409,Mountain,"ML Mountain Frame - Black, 38",$185.8193,Mountain Frames,Components,Black,$348.76,ML Mountain Frame-W,2
+410,Mountain,LL Mountain Front Wheel,$26.9708,Wheels,Components,Black,$60.745,LL Mountain Front Wheel,1
+411,Mountain,ML Mountain Front Wheel,$92.8071,Wheels,Components,Black,$209.025,ML Mountain Front Wheel,1
+412,Mountain,HL Mountain Front Wheel,$133.2955,Wheels,Components,Black,$300.215,HL Mountain Front Wheel,1
+413,Road,LL Road Front Wheel,$37.9909,Wheels,Components,Black,$85.565,LL Road Front Wheel,1
+414,Road,ML Road Front Wheel,$110.2829,Wheels,Components,Black,$248.385,ML Road Front Wheel,1
+415,Road,HL Road Front Wheel,$146.5466,Wheels,Components,Black,$330.06,HL Road Front Wheel,1
+416,Touring,Touring Front Wheel,$96.7964,Wheels,Components,Black,$218.01,Touring Front Wheel,1
+417,Road,"ML Road Frame-W - Yellow, 38",$300.1188,Road Frames,Components,Yellow,$540.7545,ML Road Frame-W,2
+418,Road,"ML Road Frame-W - Yellow, 38",$360.9428,Road Frames,Components,Yellow,$594.83,ML Road Frame-W,2
+419,Mountain,LL Mountain Rear Wheel,$38.9588,Wheels,Components,Black,$87.745,LL Mountain Rear Wheel,1
+420,Mountain,ML Mountain Rear Wheel,$104.7951,Wheels,Components,Black,$236.025,ML Mountain Rear Wheel,1
+421,Mountain,HL Mountain Rear Wheel,$145.2835,Wheels,Components,Black,$327.215,HL Mountain Rear Wheel,1
+422,Road,LL Road Rear Wheel,$49.9789,Wheels,Components,Black,$112.565,LL Road Rear Wheel,1
+423,Road,ML Road Rear Wheel,$122.2709,Wheels,Components,Black,$275.385,ML Road Rear Wheel,1
+424,Road,HL Road Rear Wheel,$158.5346,Wheels,Components,Black,$357.06,HL Road Rear Wheel,1
+425,Touring,Touring Rear Wheel,$108.7844,Wheels,Components,Black,$245.01,Touring Rear Wheel,1
+426,Mountain,"ML Mountain Frame - Black, 40",$185.8193,Mountain Frames,Components,Black,$348.76,ML Mountain Frame,1
+427,Mountain,"ML Mountain Frame - Black, 44",$185.8193,Mountain Frames,Components,Black,$348.76,ML Mountain Frame,1
+428,Mountain,"ML Mountain Frame - Black, 48",$185.8193,Mountain Frames,Components,Black,$348.76,ML Mountain Frame,1
+429,Road,"ML Road Frame-W - Yellow, 40",$300.1188,Road Frames,Components,Yellow,$540.7545,ML Road Frame-W,1
+430,Road,"ML Road Frame-W - Yellow, 40",$360.9428,Road Frames,Components,Yellow,$594.83,ML Road Frame-W,1
+431,Road,"ML Road Frame-W - Yellow, 42",$300.1188,Road Frames,Components,Yellow,$540.7545,ML Road Frame-W,1
+432,Road,"ML Road Frame-W - Yellow, 42",$360.9428,Road Frames,Components,Yellow,$594.83,ML Road Frame-W,1
+433,Road,"ML Road Frame-W - Yellow, 44",$300.1188,Road Frames,Components,Yellow,$540.7545,ML Road Frame-W,1
+434,Road,"ML Road Frame-W - Yellow, 44",$360.9428,Road Frames,Components,Yellow,$594.83,ML Road Frame-W,1
+435,Road,"ML Road Frame-W - Yellow, 48",$300.1188,Road Frames,Components,Yellow,$540.7545,ML Road Frame-W,1
+436,Road,"ML Road Frame-W - Yellow, 48",$360.9428,Road Frames,Components,Yellow,$594.83,ML Road Frame-W,1
+437,Road,"HL Road Frame - Black, 62",$722.2568,Road Frames,Components,Black,$1301.3636,HL Road Frame,1
+438,Road,"HL Road Frame - Black, 62",$868.6342,Road Frames,Components,Black,$1431.5,HL Road Frame,1
+439,Road,"HL Road Frame - Black, 44",$722.2568,Road Frames,Components,Black,$1301.3636,HL Road Frame,1
+440,Road,"HL Road Frame - Black, 44",$868.6342,Road Frames,Components,Black,$1431.5,HL Road Frame,1
+441,Road,"HL Road Frame - Black, 48",$722.2568,Road Frames,Components,Black,$1301.3636,HL Road Frame,1
+442,Road,"HL Road Frame - Black, 48",$868.6342,Road Frames,Components,Black,$1431.5,HL Road Frame,1
+443,Road,"HL Road Frame - Black, 52",$722.2568,Road Frames,Components,Black,$1301.3636,HL Road Frame,1
+444,Road,"HL Road Frame - Black, 52",$868.6342,Road Frames,Components,Black,$1431.5,HL Road Frame,1
+445,Sport,"Men's Sports Shorts, S",$24.7459,Shorts,Clothing,Black,$59.99,Men's Sports Shorts,0
+446,Touring,"Touring-Panniers, Large",$51.5625,Panniers,Accessories,Grey,$125,Touring-Panniers,0
+447,Sport,Cable Lock,$10.3125,Locks,Accessories,NA,$25,Cable Lock,0
+448,Sport,Minipump,$8.2459,Pumps,Accessories,NA,$19.99,Minipump,0
+449,Mountain,Mountain Pump,$10.3084,Pumps,Accessories,NA,$24.99,Mountain Pump,0
+450,Road,Taillights - Battery-Powered,$5.7709,Lights,Accessories,NA,$13.99,Taillight,0
+451,Road,Headlights - Dual-Beam,$14.4334,Lights,Accessories,NA,$34.99,Headlights - Dual-Beam,0
+452,Road,Headlights - Weatherproof,$18.5584,Lights,Accessories,NA,$44.99,Headlights - Weatherproof,0
+453,Sport,"Men's Sports Shorts, M",$24.7459,Shorts,Clothing,Black,$59.99,Men's Sports Shorts,0
+454,Sport,"Men's Sports Shorts, L",$24.7459,Shorts,Clothing,Black,$59.99,Men's Sports Shorts,0
+455,Sport,"Men's Sports Shorts, XL",$24.7459,Shorts,Clothing,Black,$59.99,Men's Sports Shorts,0
+456,Sport,"Women's Tights, S",$30.9334,Tights,Clothing,Black,$74.99,Women's Tights,0
+457,Sport,"Women's Tights, M",$30.9334,Tights,Clothing,Black,$74.99,Women's Tights,0
+458,Sport,"Women's Tights, L",$30.9334,Tights,Clothing,Black,$74.99,Women's Tights,0
+459,Sport,"Men's Bib-Shorts, S",$37.1209,Bib-Shorts,Clothing,Multi,$89.99,Men's Bib-Shorts,0
+460,Sport,"Men's Bib-Shorts, M",$37.1209,Bib-Shorts,Clothing,Multi,$89.99,Men's Bib-Shorts,0
+461,Sport,"Men's Bib-Shorts, L",$37.1209,Bib-Shorts,Clothing,Multi,$89.99,Men's Bib-Shorts,0
+462,Sport,"Half-Finger Gloves, S",$9.7136,Gloves,Clothing,Black,$23.5481,Half-Finger Gloves,0
+463,Sport,"Half-Finger Gloves, S",$9.1593,Gloves,Clothing,Black,$24.49,Half-Finger Gloves,0
+464,Sport,"Half-Finger Gloves, M",$9.7136,Gloves,Clothing,Black,$23.5481,Half-Finger Gloves,0
+465,Sport,"Half-Finger Gloves, M",$9.1593,Gloves,Clothing,Black,$24.49,Half-Finger Gloves,0
+466,Sport,"Half-Finger Gloves, L",$9.7136,Gloves,Clothing,Black,$23.5481,Half-Finger Gloves,0
+467,Sport,"Half-Finger Gloves, L",$9.1593,Gloves,Clothing,Black,$24.49,Half-Finger Gloves,0
+468,Mountain,"Full-Finger Gloves, S",$15.6709,Gloves,Clothing,Black,$37.99,Full-Finger Gloves,0
+469,Mountain,"Full-Finger Gloves, M",$15.6709,Gloves,Clothing,Black,$37.99,Full-Finger Gloves,0
+470,Mountain,"Full-Finger Gloves, L",$15.6709,Gloves,Clothing,Black,$37.99,Full-Finger Gloves,0
+471,Sport,"Classic Vest, S",$23.749,Vests,Clothing,Blue,$63.5,Classic Vest,0
+472,Sport,"Classic Vest, M",$23.749,Vests,Clothing,Blue,$63.5,Classic Vest,0
+473,Sport,"Classic Vest, L",$23.749,Vests,Clothing,Blue,$63.5,Classic Vest,0
+474,Mountain,"Women's Mountain Shorts, S",$26.1763,Shorts,Clothing,Black,$69.99,Women's Mountain Shorts,0
+475,Mountain,"Women's Mountain Shorts, M",$26.1763,Shorts,Clothing,Black,$69.99,Women's Mountain Shorts,0
+476,Mountain,"Women's Mountain Shorts, L",$26.1763,Shorts,Clothing,Black,$69.99,Women's Mountain Shorts,0
+477,Sport,Water Bottle - 30 oz.,$1.8663,Bottles and Cages,Accessories,NA,$4.99,Water Bottle,0
+478,Mountain,Mountain Bottle Cage,$3.7363,Bottles and Cages,Accessories,NA,$9.99,Mountain Bottle Cage,0
+479,Road,Road Bottle Cage,$3.3623,Bottles and Cages,Accessories,NA,$8.99,Road Bottle Cage,0
+480,Sport,Patch Kit/8 Patches,$0.8565,Tires and Tubes,Accessories,NA,$2.29,Patch kit,0
+481,Road,"Racing Socks, M",$3.3623,Socks,Clothing,White,$8.99,Racing Socks,0
+482,Road,"Racing Socks, L",$3.3623,Socks,Clothing,White,$8.99,Racing Socks,0
+483,Sport,Hitch Rack - 4-Bike,$44.88,Bike Racks,Accessories,NA,$120,Hitch Rack - 4-Bike,0
+484,Sport,Bike Wash - Dissolver,$2.9733,Cleaners,Accessories,NA,$7.95,Bike Wash,0
+485,Mountain,Fender Set - Mountain,$8.2205,Fenders,Accessories,NA,$21.98,Fender Set - Mountain,0
+486,Mountain,All-Purpose Bike Stand,$59.466,Bike Stands,Accessories,NA,$159,All-Purpose Bike Stand,0
+487,Sport,Hydration Pack - 70 oz.,$20.5663,Hydration Packs,Accessories,Silver,$54.99,Hydration Pack,0
+488,Sport,"Short-Sleeve Classic Jersey, S",$41.5723,Jerseys,Clothing,Yellow,$53.99,Short-Sleeve Classic Jersey,0
+489,Sport,"Short-Sleeve Classic Jersey, M",$41.5723,Jerseys,Clothing,Yellow,$53.99,Short-Sleeve Classic Jersey,0
+490,Sport,"Short-Sleeve Classic Jersey, L",$41.5723,Jerseys,Clothing,Yellow,$53.99,Short-Sleeve Classic Jersey,0
+491,Sport,"Short-Sleeve Classic Jersey, XL",$41.5723,Jerseys,Clothing,Yellow,$53.99,Short-Sleeve Classic Jersey,0
+492,Touring,"HL Touring Frame - Yellow, 60",$601.7437,Touring Frames,Components,Yellow,$1003.91,HL Touring Frame,1
+493,Touring,"LL Touring Frame - Yellow, 62",$199.8519,Touring Frames,Components,Yellow,$333.42,LL Touring Frame,1
+494,Touring,"HL Touring Frame - Yellow, 46",$601.7437,Touring Frames,Components,Yellow,$1003.91,HL Touring Frame,1
+495,Touring,"HL Touring Frame - Yellow, 50",$601.7437,Touring Frames,Components,Yellow,$1003.91,HL Touring Frame,1
+496,Touring,"HL Touring Frame - Yellow, 54",$601.7437,Touring Frames,Components,Yellow,$1003.91,HL Touring Frame,1
+497,Touring,"HL Touring Frame - Blue, 46",$601.7437,Touring Frames,Components,Blue,$1003.91,HL Touring Frame,1
+498,Touring,"HL Touring Frame - Blue, 50",$601.7437,Touring Frames,Components,Blue,$1003.91,HL Touring Frame,1
+499,Touring,"HL Touring Frame - Blue, 54",$601.7437,Touring Frames,Components,Blue,$1003.91,HL Touring Frame,1
+500,Touring,"HL Touring Frame - Blue, 60",$601.7437,Touring Frames,Components,Blue,$1003.91,HL Touring Frame,1
+501,,Rear Derailleur,$53.9282,Derailleurs,Components,Silver,$121.46,Rear Derailleur,1
+502,Touring,"LL Touring Frame - Blue, 50",$199.8519,Touring Frames,Components,Blue,$333.42,LL Touring Frame,1
+503,Touring,"LL Touring Frame - Blue, 54",$199.8519,Touring Frames,Components,Blue,$333.42,LL Touring Frame,1
+504,Touring,"LL Touring Frame - Blue, 58",$199.8519,Touring Frames,Components,Blue,$333.42,LL Touring Frame,1
+505,Touring,"LL Touring Frame - Blue, 62",$199.8519,Touring Frames,Components,Blue,$333.42,LL Touring Frame,1
+506,Touring,"LL Touring Frame - Yellow, 44",$199.8519,Touring Frames,Components,Yellow,$333.42,LL Touring Frame,1
+507,Touring,"LL Touring Frame - Yellow, 50",$199.8519,Touring Frames,Components,Yellow,$333.42,LL Touring Frame,1
+508,Touring,"LL Touring Frame - Yellow, 54",$199.8519,Touring Frames,Components,Yellow,$333.42,LL Touring Frame,1
+509,Touring,"LL Touring Frame - Yellow, 58",$199.8519,Touring Frames,Components,Yellow,$333.42,LL Touring Frame,1
+510,Touring,"LL Touring Frame - Blue, 44",$199.8519,Touring Frames,Components,Blue,$333.42,LL Touring Frame,1
+511,Mountain,"ML Mountain Frame-W - Silver, 40",$199.3757,Mountain Frames,Components,Silver,$364.09,ML Mountain Frame-W,1
+512,Mountain,"ML Mountain Frame-W - Silver, 42",$199.3757,Mountain Frames,Components,Silver,$364.09,ML Mountain Frame-W,1
+513,Mountain,"ML Mountain Frame-W - Silver, 46",$199.3757,Mountain Frames,Components,Silver,$364.09,ML Mountain Frame-W,1
+514,,Rear Brakes,$47.286,Brakes,Components,Silver,$106.5,Rear Brakes,1
+515,Mountain,LL Mountain Seat/Saddle,$12.0413,Saddles,Components,NA,$27.12,LL Mountain Seat/Saddle 2,1
+516,Mountain,ML Mountain Seat/Saddle,$17.3782,Saddles,Components,NA,$39.14,ML Mountain Seat/Saddle 2,1
+517,Mountain,HL Mountain Seat/Saddle,$23.3722,Saddles,Components,NA,$52.64,HL Mountain Seat/Saddle 2,1
+518,Road,LL Road Seat/Saddle,$12.0413,Saddles,Components,NA,$27.12,LL Road Seat/Saddle 1,1
+519,Touring,ML Road Seat/Saddle,$17.3782,Saddles,Components,NA,$39.14,ML Road Seat/Saddle 2,1
+520,Road,HL Road Seat/Saddle,$23.3722,Saddles,Components,NA,$52.64,HL Road Seat/Saddle 2,1
+521,Touring,LL Touring Seat/Saddle,$12.0413,Saddles,Components,NA,$27.12,LL Touring Seat/Saddle,1
+522,Touring,ML Touring Seat/Saddle,$17.3782,Saddles,Components,NA,$39.14,ML Touring Seat/Saddle,1
+523,Touring,HL Touring Seat/Saddle,$23.3722,Saddles,Components,NA,$52.64,HL Touring Seat/Saddle,1
+524,Mountain,"LL Mountain Frame - Silver, 42",$144.5938,Mountain Frames,Components,Silver,$264.05,LL Mountain Frame,1
+525,Mountain,"LL Mountain Frame - Silver, 44",$144.5938,Mountain Frames,Components,Silver,$264.05,LL Mountain Frame,1
+526,Mountain,"LL Mountain Frame - Silver, 48",$144.5938,Mountain Frames,Components,Silver,$264.05,LL Mountain Frame,1
+527,Mountain,"LL Mountain Frame - Silver, 52",$144.5938,Mountain Frames,Components,Silver,$264.05,LL Mountain Frame,1
+528,Mountain,Mountain Tire Tube,$1.8663,Tires and Tubes,Accessories,NA,$4.99,Mountain Tire Tube,0
+529,Road,Road Tire Tube,$1.4923,Tires and Tubes,Accessories,NA,$3.99,Road Tire Tube,0
+530,Touring,Touring Tire Tube,$1.8663,Tires and Tubes,Accessories,NA,$4.99,Touring Tire Tube,0
+531,Mountain,"LL Mountain Frame - Black, 42",$136.785,Mountain Frames,Components,Black,$249.79,LL Mountain Frame,1
+532,Mountain,"LL Mountain Frame - Black, 44",$136.785,Mountain Frames,Components,Black,$249.79,LL Mountain Frame,1
+533,Mountain,"LL Mountain Frame - Black, 48",$136.785,Mountain Frames,Components,Black,$249.79,LL Mountain Frame,1
+534,Mountain,"LL Mountain Frame - Black, 52",$136.785,Mountain Frames,Components,Black,$249.79,LL Mountain Frame,1
+535,Mountain,LL Mountain Tire,$9.3463,Tires and Tubes,Accessories,NA,$24.99,LL Mountain Tire,0
+536,Mountain,ML Mountain Tire,$11.2163,Tires and Tubes,Accessories,NA,$29.99,ML Mountain Tire,0
+537,Mountain,HL Mountain Tire,$13.09,Tires and Tubes,Accessories,NA,$35,HL Mountain Tire,0
+538,Road,LL Road Tire,$8.0373,Tires and Tubes,Accessories,NA,$21.49,LL Road Tire,0
+539,Road,ML Road Tire,$9.3463,Tires and Tubes,Accessories,NA,$24.99,ML Road Tire,0
+540,Road,HL Road Tire,$12.1924,Tires and Tubes,Accessories,NA,$32.6,HL Road Tire,0
+541,Touring,Touring Tire,$10.8423,Tires and Tubes,Accessories,NA,$28.99,Touring Tire,0
+542,Mountain,LL Mountain Pedal,$17.9776,Pedals,Components,Silver/Black,$40.49,LL Mountain Pedal,1
+543,Mountain,ML Mountain Pedal,$27.568,Pedals,Components,Silver/Black,$62.09,ML Mountain Pedal,1
+544,Mountain,HL Mountain Pedal,$35.9596,Pedals,Components,Silver/Black,$80.99,HL Mountain Pedal,1
+545,Road,LL Road Pedal,$17.9776,Pedals,Components,Silver/Black,$40.49,LL Road Pedal,1
+546,Road,ML Road Pedal,$27.568,Pedals,Components,Silver/Black,$62.09,ML Road Pedal,1
+547,Road,HL Road Pedal,$35.9596,Pedals,Components,Silver/Black,$80.99,HL Road Pedal,1
+548,Touring,Touring Pedal,$35.9596,Pedals,Components,Silver/Black,$80.99,Touring Pedal,1
+549,Mountain,"ML Mountain Frame-W - Silver, 38",$199.3757,Mountain Frames,Components,Silver,$364.09,ML Mountain Frame-W,2
+550,Mountain,"LL Mountain Frame - Black, 40",$136.785,Mountain Frames,Components,Black,$249.79,LL Mountain Frame,2
+551,Mountain,"LL Mountain Frame - Silver, 40",$144.5938,Mountain Frames,Components,Silver,$264.05,LL Mountain Frame,2
+552,,Front Derailleur,$40.6216,Derailleurs,Components,Silver,$91.49,Front Derailleur,1
+553,Touring,LL Touring Handlebars,$20.464,Handlebars,Components,NA,$46.09,LL Touring Handlebars,1
+554,Touring,HL Touring Handlebars,$40.6571,Handlebars,Components,NA,$91.57,HL Touring Handlebars,1
+555,,Front Brakes,$47.286,Brakes,Components,Silver,$106.5,Front Brakes,1
+556,,LL Crankset,$77.9176,Cranksets,Components,Black,$175.49,LL Crankset,1
+557,,ML Crankset,$113.8816,Cranksets,Components,Black,$256.49,ML Crankset,1
+558,,HL Crankset,$179.8156,Cranksets,Components,Black,$404.99,HL Crankset,1
+559,,Chain,$8.9866,Chains,Components,Silver,$20.24,Chain,1
+560,Touring,"Touring-2000 Blue, 60",$755.1508,Touring Bikes,Bikes,Blue,$1214.85,Touring-2000,4
+561,Touring,"Touring-1000 Yellow, 46",$1481.9379,Touring Bikes,Bikes,Yellow,$2384.07,Touring-1000,4
+562,Touring,"Touring-1000 Yellow, 50",$1481.9379,Touring Bikes,Bikes,Yellow,$2384.07,Touring-1000,4
+563,Touring,"Touring-1000 Yellow, 54",$1481.9379,Touring Bikes,Bikes,Yellow,$2384.07,Touring-1000,4
+564,Touring,"Touring-1000 Yellow, 60",$1481.9379,Touring Bikes,Bikes,Yellow,$2384.07,Touring-1000,4
+565,Touring,"Touring-3000 Blue, 54",$461.4448,Touring Bikes,Bikes,Blue,$742.35,Touring-3000,4
+566,Touring,"Touring-3000 Blue, 58",$461.4448,Touring Bikes,Bikes,Blue,$742.35,Touring-3000,4
+567,Touring,"Touring-3000 Blue, 62",$461.4448,Touring Bikes,Bikes,Blue,$742.35,Touring-3000,4
+568,Touring,"Touring-3000 Yellow, 44",$461.4448,Touring Bikes,Bikes,Yellow,$742.35,Touring-3000,4
+569,Touring,"Touring-3000 Yellow, 50",$461.4448,Touring Bikes,Bikes,Yellow,$742.35,Touring-3000,4
+570,Touring,"Touring-3000 Yellow, 54",$461.4448,Touring Bikes,Bikes,Yellow,$742.35,Touring-3000,4
+571,Touring,"Touring-3000 Yellow, 58",$461.4448,Touring Bikes,Bikes,Yellow,$742.35,Touring-3000,4
+572,Touring,"Touring-3000 Yellow, 62",$461.4448,Touring Bikes,Bikes,Yellow,$742.35,Touring-3000,4
+573,Touring,"Touring-1000 Blue, 46",$1481.9379,Touring Bikes,Bikes,Blue,$2384.07,Touring-1000,4
+574,Touring,"Touring-1000 Blue, 50",$1481.9379,Touring Bikes,Bikes,Blue,$2384.07,Touring-1000,4
+575,Touring,"Touring-1000 Blue, 54",$1481.9379,Touring Bikes,Bikes,Blue,$2384.07,Touring-1000,4
+576,Touring,"Touring-1000 Blue, 60",$1481.9379,Touring Bikes,Bikes,Blue,$2384.07,Touring-1000,4
+577,Touring,"Touring-2000 Blue, 46",$755.1508,Touring Bikes,Bikes,Blue,$1214.85,Touring-2000,4
+578,Touring,"Touring-2000 Blue, 50",$755.1508,Touring Bikes,Bikes,Blue,$1214.85,Touring-2000,4
+579,Touring,"Touring-2000 Blue, 54",$755.1508,Touring Bikes,Bikes,Blue,$1214.85,Touring-2000,4
+580,Road,"Road-350-W Yellow, 40",$1082.51,Road Bikes,Bikes,Yellow,$1700.99,Road-350-W,4
+581,Road,"Road-350-W Yellow, 42",$1082.51,Road Bikes,Bikes,Yellow,$1700.99,Road-350-W,4
+582,Road,"Road-350-W Yellow, 44",$1082.51,Road Bikes,Bikes,Yellow,$1700.99,Road-350-W,4
+583,Road,"Road-350-W Yellow, 48",$1082.51,Road Bikes,Bikes,Yellow,$1700.99,Road-350-W,4
+584,Road,"Road-750 Black, 58",$343.6496,Road Bikes,Bikes,Black,$539.99,Road-750,4
+585,Touring,"Touring-3000 Blue, 44",$461.4448,Touring Bikes,Bikes,Blue,$742.35,Touring-3000,4
+586,Touring,"Touring-3000 Blue, 50",$461.4448,Touring Bikes,Bikes,Blue,$742.35,Touring-3000,4
+587,Mountain,"Mountain-400-W Silver, 38",$419.7784,Mountain Bikes,Bikes,Silver,$769.49,Mountain-400-W,4
+588,Mountain,"Mountain-400-W Silver, 40",$419.7784,Mountain Bikes,Bikes,Silver,$769.49,Mountain-400-W,4
+589,Mountain,"Mountain-400-W Silver, 42",$419.7784,Mountain Bikes,Bikes,Silver,$769.49,Mountain-400-W,4
+590,Mountain,"Mountain-400-W Silver, 46",$419.7784,Mountain Bikes,Bikes,Silver,$769.49,Mountain-400-W,4
+591,Mountain,"Mountain-500 Silver, 40",$308.2179,Mountain Bikes,Bikes,Silver,$564.99,Mountain-500,4
+592,Mountain,"Mountain-500 Silver, 42",$308.2179,Mountain Bikes,Bikes,Silver,$564.99,Mountain-500,4
+593,Mountain,"Mountain-500 Silver, 44",$308.2179,Mountain Bikes,Bikes,Silver,$564.99,Mountain-500,4
+594,Mountain,"Mountain-500 Silver, 48",$308.2179,Mountain Bikes,Bikes,Silver,$564.99,Mountain-500,4
+595,Mountain,"Mountain-500 Silver, 52",$308.2179,Mountain Bikes,Bikes,Silver,$564.99,Mountain-500,4
+596,Mountain,"Mountain-500 Black, 40",$294.5797,Mountain Bikes,Bikes,Black,$539.99,Mountain-500,4
+597,Mountain,"Mountain-500 Black, 42",$294.5797,Mountain Bikes,Bikes,Black,$539.99,Mountain-500,4
+598,Mountain,"Mountain-500 Black, 44",$294.5797,Mountain Bikes,Bikes,Black,$539.99,Mountain-500,4
+599,Mountain,"Mountain-500 Black, 48",$294.5797,Mountain Bikes,Bikes,Black,$539.99,Mountain-500,4
+600,Mountain,"Mountain-500 Black, 52",$294.5797,Mountain Bikes,Bikes,Black,$539.99,Mountain-500,4
+601,,LL Bottom Bracket,$23.9716,Bottom Brackets,Components,NA,$53.99,LL Bottom Bracket,1
+602,,ML Bottom Bracket,$44.9506,Bottom Brackets,Components,NA,$101.24,ML Bottom Bracket,1
+603,,HL Bottom Bracket,$53.9416,Bottom Brackets,Components,NA,$121.49,HL Bottom Bracket,1
+604,Road,"Road-750 Black, 44",$343.6496,Road Bikes,Bikes,Black,$539.99,Road-750,4
+605,Road,"Road-750 Black, 48",$343.6496,Road Bikes,Bikes,Black,$539.99,Road-750,4
+606,Road,"Road-750 Black, 52",$343.6496,Road Bikes,Bikes,Black,$539.99,Road-750,4
